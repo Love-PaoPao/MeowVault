@@ -1,0 +1,8 @@
+# 构建产物暂存（安装包体积大，不进版本库，发版时上传到 Releases）
+artifacts/
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

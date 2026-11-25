@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "required": false,
+  "notes": "",
+  "release_url": "https://github.com/Love-PaoPao/MeowVault/releases",
+  "downloads": {
+    "macos-arm64": "https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-macos-arm64.dmg",
+    "macos-x64": "https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-macos-x64.dmg",
+    "windows-x64": "https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-win-x64-setup.exe",
+    "windows-arm64": "https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-win-arm64-setup.exe",
+    "linux-x64": "https://github.com/Love-PaoPao/MeowVault/releases/latest/download/meowvault_amd64.deb",
+    "linux-arm64": "https://github.com/Love-PaoPao/MeowVault/releases/latest/download/meowvault_arm64.deb"
+  }
+}
