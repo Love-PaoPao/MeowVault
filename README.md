@@ -26,9 +26,7 @@ service, no telemetry.
 | macOS (Apple silicon) | [MeowVault-macos-arm64.dmg](https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-macos-arm64.dmg) |
 | macOS (Intel) | [MeowVault-macos-x64.dmg](https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-macos-x64.dmg) |
 | Windows (x64) | [MeowVault-win-x64-setup.exe](https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-win-x64-setup.exe) |
-| Windows (ARM64) | [MeowVault-win-arm64-setup.exe](https://github.com/Love-PaoPao/MeowVault/releases/latest/download/MeowVault-win-arm64-setup.exe) |
 | Linux (amd64) | [meowvault_amd64.deb](https://github.com/Love-PaoPao/MeowVault/releases/latest/download/meowvault_amd64.deb) |
-| Linux (arm64) | [meowvault_arm64.deb](https://github.com/Love-PaoPao/MeowVault/releases/latest/download/meowvault_arm64.deb) |
 
 All links point to the newest stable release. Alternative mirror:
 [gitee.com/Love-PaoPao/MeowVault/releases](https://gitee.com/Love-PaoPao/MeowVault/releases)
